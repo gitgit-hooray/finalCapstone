@@ -17,7 +17,7 @@ providing valuable insights into customer opinions and product relations.
 
 To use this project locally, follow these steps:
 
-1. Open up your computers terminal and enter the following points into the command line:
+1. Open up your computer terminal and enter the following points into the command line:
 
 2. Clone the repository to your local machine:
    ```bash

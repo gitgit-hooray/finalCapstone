@@ -218,8 +218,6 @@ Understanding these strengths and limitations is crucial for refining the model 
 <br>
 <br>
 ## Credits
-This project was created by Charmaine Fernandes. 
+This project was created by [Charmaine Fernandes](https://github.com/gitgit-hooray)
 
 I appreciate the contributions and support from the open-source community.
-
-

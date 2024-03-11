@@ -36,10 +36,15 @@ After installing the project, you can use it as follows:
 
 Run the main Python scripts:
 
+This is the original codebase with comments
+```bash
 python sentiment_analysis.py
-
+```
+This is an alternative version with more detailed comments explaining the code.
+This is to improve understanding as a learning process and for more clarity on why certain code was used.
+```bash
 python sentiment_analysis_detailed.py
-
+```
 
 Follow the prompts to input the file path of the Amazon product reviews dataset.
 The program will perform sentiment analysis and similarity comparison on the reviews, providing results and insights.

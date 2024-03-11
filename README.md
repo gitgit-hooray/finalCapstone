@@ -142,6 +142,7 @@ This sentiment analysis is consistent with the values presented in the cleaned d
 
 7. **Apply 'preprocess_text' Function:**
    - Finally, the ‘preprocess_text’ function is applied to the ‘reviews.text’ column of the `clean_data` DataFrame. Only the first three rows of the column are processed using `head(3)` to optimize processing time.
+<br>
 
 ## Evaluation of Results
 

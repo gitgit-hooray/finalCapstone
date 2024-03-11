@@ -48,17 +48,16 @@ The program will perform sentiment analysis and similarity comparison on the rev
 
 ### Main program code designed for sentiment analysis and similarity comparison.
 <br>
-<br>
-1. The first part of the program sets up the necessary packages and models for sentiment analysis using spaCy and TextBlob, 
-checking for package installations and configuring spaCy's pipeline for sentiment analysis.
+1.    The first part of the program sets up the necessary packages and models for sentiment analysis using spaCy and TextBlob, 
+      checking for package installations and configuring spaCy's pipeline for sentiment analysis.
 <br>
 <img width="984" alt="1" src="https://github.com/gitgit-hooray/finalCapstone/assets/151678204/82eb9526-c3fd-4b4d-8bce-faca36c8ffe9">
 <br>
 <br>
 <br>
-2. The next part of the program retrieves Amazon product reviews from a Dropbox link, creates a Pandas DataFrame for it, 
-displays information about the dataset, cleans and preprocesses the data by removing null values, and defines a text 
-preprocessing function to eliminate stopwords and perform basic cleaning for analysis.
+2.     The next part of the program retrieves Amazon product reviews from a Dropbox link, creates a Pandas DataFrame for it, 
+       displays information about the dataset, cleans and preprocesses the data by removing null values, and defines a text 
+       preprocessing function to eliminate stopwords and perform basic cleaning for analysis.
 <br>
 <img width="976" alt="2" src="https://github.com/gitgit-hooray/finalCapstone/assets/151678204/af8ab761-ab0c-4421-ae64-2939c2b90439">
 <br>
@@ -80,7 +79,6 @@ subset of cleaned data, showcasing the resulting DataFrame for the first three r
 <br>
 <br>
 <br>
-
 
 ### Output Results
 <br>

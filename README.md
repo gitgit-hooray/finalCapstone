@@ -101,7 +101,7 @@ subset of cleaned data, showcasing the resulting DataFrame for the first three r
 <br>
 
 ### Output Results
-<br>
+
 1. This output shows two product reviews and their similarity score, indicating a relatively high similarity between the two reviews. 
 The sentiment analysis is then conducted on the first review, showing a slightly negative polarity (-0.05) 
 and a subjective sentiment with a subjectivity score of 0.7833.
@@ -117,6 +117,7 @@ This sentiment analysis is consistent with the values presented in the cleaned d
 <br>
 <br>
 <img width="811" alt="Sentiment Analysis 2" src="https://github.com/gitgit-hooray/finalCapstone/assets/151678204/6de9f5c2-dd0d-4c17-964e-d63deb5ea1ba">
+<br>
 <br>
 
 ## Preprocessing Steps
@@ -141,7 +142,6 @@ This sentiment analysis is consistent with the values presented in the cleaned d
 
 7. **Apply 'preprocess_text' Function:**
    - Finally, the ‘preprocess_text’ function is applied to the ‘reviews.text’ column of the `clean_data` DataFrame. Only the first three rows of the column are processed using `head(3)` to optimize processing time.
-<br>
 
 ## Evaluation of Results
 
@@ -175,7 +175,6 @@ The model conducts sentiment analysis and similarity comparison of Amazon produc
 ### Result Interpretation and Visualization
 
 - To enhance result interpretation, introducing data visualizations, such as sentiment distribution plots or similarity score scatter plots, could provide a clearer understanding of the sentiment trends and relationships between reviews.
-<br>
 
 ## Insights into the Model's Strengths and Limitations
 
@@ -215,7 +214,7 @@ The model conducts sentiment analysis and similarity comparison of Amazon produc
 
 Understanding these strengths and limitations is crucial for refining the model and making informed decisions about its application, scalability, and potential areas of improvement.
 <br>
-
+<br>
 ## Credits
 This project was created by Charmaine Fernandes. 
 

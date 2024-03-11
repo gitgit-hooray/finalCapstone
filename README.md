@@ -9,7 +9,10 @@ This project involves performing sentiment analysis and similarity comparison on
 - [Installation](#installation)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
+  - [Main Program](#main-program)
+  - [Output Results](#output-results)
 - [Credits](#credits)
+
 
 ## Installation
 
@@ -54,7 +57,7 @@ The program will perform sentiment analysis and similarity comparison on the rev
 
 ## Screenshots
 
-### Main program code designed for sentiment analysis and similarity comparison.
+### Main Program
 <br>
 1. The first part of the program sets up the necessary packages and models for sentiment analysis using spaCy and TextBlob, 
 checking for package installations and configuring spaCy's pipeline for sentiment analysis.

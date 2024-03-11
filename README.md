@@ -122,7 +122,6 @@ This sentiment analysis is consistent with the values presented in the cleaned d
 <br>
 
 ## Preprocessing Steps
-<br>
 
 1. **Remove Irrelevant Information:**
    - Preprocessing steps remove irrelevant information (stop words) and standardize the text, making it more suitable for sentiment analysis.
@@ -149,7 +148,6 @@ This sentiment analysis is consistent with the values presented in the cleaned d
 <br>
 
 ## Evaluation of Results
-<br>
 
 ### Sentiment Analysis and Similarity Comparison
 
@@ -184,8 +182,8 @@ The model conducts sentiment analysis and similarity comparison of Amazon produc
 <br>
 <br>
 <br>
+
 ## Insights into the Model's Strengths and Limitations
-<br>
 
 ### Model's Strengths
 

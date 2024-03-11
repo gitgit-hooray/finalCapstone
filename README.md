@@ -2,9 +2,7 @@
 
 ## Description
 
-This project performs sentiment analysis and similarity comparison on a dataset of Amazon product reviews using spaCy and TextBlob. 
-The primary goal is to analyze the sentiment of reviews and measure the similarity between different reviews, 
-providing valuable insights into customer opinions and product relations.
+This project involves performing sentiment analysis and similarity comparison on a dataset of Amazon product reviews using spaCy and TextBlob. The primary objective is to analyze sentiment, measure review similarity, and gain valuable insights into customer opinions and product relations. The dataset provides raw structured information, including product names, brands, categories, keys (product codes or unique identifiers), review dates, and texts. By isolating specific fields and cleaning the data, it becomes suitable for various applications like sentiment analysis, product recommendation, and more.
 
 ## Table of Contents
 
@@ -34,13 +32,14 @@ To use this project locally, follow these steps:
 ## Usage
 After installing the project, you can use it as follows:
 
-Run the main Python scripts:
+Run the main Python scripts in terminal:
 
-This is the original codebase with comments
+This script is the original codebase with comments
 ```bash
 python sentiment_analysis.py
 ```
-This is an alternative version with more detailed comments explaining the code.
+This script is an alternative version with more detailed comments explaining the code.
+
 This is to improve understanding as a learning process and for more clarity on why certain code was used.
 ```bash
 python sentiment_analysis_detailed.py

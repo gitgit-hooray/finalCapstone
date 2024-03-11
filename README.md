@@ -180,7 +180,7 @@ The model conducts sentiment analysis and similarity comparison of Amazon produc
 
 ## Insights into the Model's Strengths and Limitations
 
-### Model's Strengths
+### Model Strengths
 
 1. **Combined Strengths of spaCy and TextBlob:**
    - The code leverages both spaCy and TextBlob, combining their strengths. SpaCy handles tokenization, part-of-speech tagging, and other NLP tasks, while TextBlob provides the interface for sentiment analysis.
@@ -197,7 +197,7 @@ The model conducts sentiment analysis and similarity comparison of Amazon produc
 5. **Informative Comments:**
    - The code includes informative comments that explain the rationale behind each step. This makes the code easy to understand for both the original developer and potential collaborators.
 
-### Model's Limitations
+### Model Limitations
 
 1. **Subset Processing and Dataset Representation:**
    - The code processes only a small subset of the dataset (3 rows) to optimize processing time, but it may not represent diversity in the entire dataset. For a more comprehensive analysis, the code needs modification to handle the entire dataset efficiently.

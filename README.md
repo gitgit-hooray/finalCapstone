@@ -32,7 +32,7 @@ To use this project locally, follow these steps:
 ## Usage
 After installing the project, you can use it as follows:
 
-Run the main Python scripts in terminal:
+Run the main Python scripts in terminal
 <br>
 <br>
 This script is the original codebase with comments:
@@ -49,8 +49,6 @@ This is to improve an understanding of NLP as a learning process and for more cl
 python sentiment_analysis_detailed.py
 ```
 <br>
-<br>
-
 Follow the prompts to input the file path of the Amazon product reviews dataset.
 The program will perform sentiment analysis and similarity comparison on the reviews, providing results and insights.
 

@@ -34,13 +34,18 @@ After installing the project, you can use it as follows:
 
 Run the main Python scripts in terminal:
 
-\t\t This script is the original codebase with comments:
+```
+   This script is the original codebase with comments:
+```
 ```bash
 python sentiment_analysis.py
 ```
-\t\t This script is an alternative version with more detailed comments explaining the code:
-
-\t\t This is to improve an understanding of NLP as a learning process and for more clarity on why certain code was used.
+```
+   This script is an alternative version with more detailed comments explaining the code:
+```
+```
+   This is to improve an understanding of NLP as a learning process and for more clarity on why certain code was used.
+```
 ```bash
 python sentiment_analysis_detailed.py
 ```

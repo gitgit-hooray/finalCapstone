@@ -118,8 +118,6 @@ This sentiment analysis is consistent with the values presented in the cleaned d
 <br>
 <img width="811" alt="Sentiment Analysis 2" src="https://github.com/gitgit-hooray/finalCapstone/assets/151678204/6de9f5c2-dd0d-4c17-964e-d63deb5ea1ba">
 <br>
-<br>
-<br>
 
 ## Preprocessing Steps
 
@@ -143,8 +141,6 @@ This sentiment analysis is consistent with the values presented in the cleaned d
 
 7. **Apply 'preprocess_text' Function:**
    - Finally, the ‘preprocess_text’ function is applied to the ‘reviews.text’ column of the `clean_data` DataFrame. Only the first three rows of the column are processed using `head(3)` to optimize processing time.
-<br>
-<br>
 <br>
 
 ## Evaluation of Results
@@ -179,8 +175,6 @@ The model conducts sentiment analysis and similarity comparison of Amazon produc
 ### Result Interpretation and Visualization
 
 - To enhance result interpretation, introducing data visualizations, such as sentiment distribution plots or similarity score scatter plots, could provide a clearer understanding of the sentiment trends and relationships between reviews.
-<br>
-<br>
 <br>
 
 ## Insights into the Model's Strengths and Limitations
@@ -220,8 +214,6 @@ The model conducts sentiment analysis and similarity comparison of Amazon produc
    - The model lacks detailed evaluation metrics such as precision, recall, or F1 score. Incorporating these metrics would enhance the assessment of sentiment analysis accuracy.
 
 Understanding these strengths and limitations is crucial for refining the model and making informed decisions about its application, scalability, and potential areas of improvement.
-<br>
-<br>
 <br>
 
 ## Credits

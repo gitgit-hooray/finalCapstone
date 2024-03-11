@@ -102,10 +102,10 @@ subset of cleaned data, showcasing the resulting DataFrame for the first three r
 
 ### Output Results
 
+
 1. This output shows two product reviews and their similarity score, indicating a relatively high similarity between the two reviews. 
 The sentiment analysis is then conducted on the first review, showing a slightly negative polarity (-0.05) 
 and a subjective sentiment with a subjectivity score of 0.7833.
-<br>
 <br>
 <img width="945" alt="Sentiment Analysis" src="https://github.com/gitgit-hooray/finalCapstone/assets/151678204/1cdcd29c-fb3e-4d13-8875-2c40f779bf11">
 <br>
@@ -175,6 +175,7 @@ The model conducts sentiment analysis and similarity comparison of Amazon produc
 ### Result Interpretation and Visualization
 
 - To enhance result interpretation, introducing data visualizations, such as sentiment distribution plots or similarity score scatter plots, could provide a clearer understanding of the sentiment trends and relationships between reviews.
+<br>
 
 ## Insights into the Model's Strengths and Limitations
 
